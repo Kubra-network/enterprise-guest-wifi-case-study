@@ -164,6 +164,11 @@ ALE focuses on **behavioral patterns**, not individual user tracking, ensuring p
 
 ---
 
+## Network Topology & Flow
+For a detailed control plane vs. data plane view and captive portal interaction flow, see:
+[Logical Network Topology & Traffic Flow](topology/logical-network-topology-traffic-flow.md)
+
+
 ## Conclusion
 
 This case study demonstrates how a seemingly simple guest Wi-Fi requirement can be transformed into a **secure, scalable, and enterprise-grade architecture**.
