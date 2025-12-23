@@ -6,7 +6,7 @@ This document describes the logical network topology and guest traffic flow for 
 
 ## High-Level Logical Topology
 
-Guest Client -> Wi-Fi (Get IP & pre-authenticated role ) -> Aruba IAP -> Aruba Central -> Guest VLAN (Isolated) & Authenticated Guest Role ->  Gateway / Firewall -> Internet
+Guest Client -> Wi-Fi (Get IP & pre-authenticated role ) -> Aruba AP -> Aruba Central (control plane) -> Guest VLAN (Isolated) & Authenticated Guest Role ->  Gateway / Firewall -> Internet
 
 ## Key Design Points
 
