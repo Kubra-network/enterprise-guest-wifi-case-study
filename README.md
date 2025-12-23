@@ -1,6 +1,6 @@
 # Enterprise Guest Wi-Fi Case Study  
 
-### Multi-Branch Retail Environment with Analytics Insights – Aruba Central (Cloud) & ALE
+### Multi-Branch Coffee Shop Environment with Analytics Insights – Aruba Central (Cloud) & ALE
 
 ## Disclaimer
 This case study is a **conceptual design** created for demonstration and learning purposes.  
@@ -23,7 +23,7 @@ This case study documents an **enterprise-level guest Wi-Fi design** for a multi
 
 ## Environment & Scale
 
-- **Industry:** Retail / Coffee Shop
+- **Industry:** Restaurant / Coffee Shop
 - **Number of branches:** 20
 - **AP density:** ~5 APs per branch
 - **Management platform:** Aruba Central (Cloud)
@@ -52,7 +52,7 @@ This case study documents an **enterprise-level guest Wi-Fi design** for a multi
 
 ## High-Level Architecture
 
-- **Access Layer:** Aruba IAPs
+- **Access Layer:** Aruba APs
 - **Management & Control Plane:** Aruba Central
 - **Authentication:** Cloud-hosted Captive Portal
 - **Segmentation:** Dedicated Guest VLAN (Isolated)
