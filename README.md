@@ -165,8 +165,8 @@ ALE focuses on **behavioral patterns**, not individual user tracking, ensuring p
 ---
 
 ## Network Topology & Flow
-For a detailed control plane vs. data plane view and captive portal interaction flow, see:
-[Logical Network Topology & Traffic Flow](topology/logical-network-topology-traffic-flow.md)
+For a detailed traffic flow and captive portal interaction flow, see:
+https://github.com/Kubra-network/enterprise-guest-wifi-case-study/blob/main/logical-network-topology-traffic-flow.md#logical-network-topology--traffic-flow
 
 
 ## Conclusion
